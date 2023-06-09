@@ -1,0 +1,12 @@
+.episode-info{
+  background-color:rgb(205, 228, 221);
+  border: 2px solid gray;
+  border-radius: 5px;
+  width: 80%;
+  margin: auto;
+  box-shadow: 10px 8px rgb(57, 80, 80);
+}
+
+.color{
+  color: green;
+}

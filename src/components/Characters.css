@@ -1,0 +1,17 @@
+select{
+  margin-bottom: 20px;
+}
+
+.character-info{
+  background-color:rgb(205, 228, 221);
+  border: 2px solid gray;
+  border-radius: 5px;
+  box-shadow: 10px 8px rgb(57, 80, 80);
+  margin: auto;
+  padding: 25px 0px 5px 0px;
+  width: 80%;
+}
+
+.color{
+  color: green;
+}
