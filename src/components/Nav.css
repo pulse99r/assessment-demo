@@ -6,14 +6,14 @@
 }
 .link{
   cursor: pointer;
-  padding: 5px 15px 5px 15px;
+  padding: 1px 15px 1px 15px;
   text-decoration: none;
 }
 .link:hover{
   background-color: black;
   border-radius: 10px;
   color: white;
-  
+  font-weight: 600;
 }
 .link:active{
   background-color: blue;
